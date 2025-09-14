@@ -1,0 +1,10 @@
+title: FinanceMastery
+description: "AI-powered blog to master personal finance, wealth, and financial freedom."
+baseurl: ""            # leave empty because site is hosted at /FinanceMastery
+url: "https://FinanceMastery.github.io/FinanceMastery"
+theme: minima
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title/
+collections:
+  posts:
+    output: true

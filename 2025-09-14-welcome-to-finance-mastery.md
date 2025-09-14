@@ -1,13 +1,7 @@
 ---
 title: "Welcome to FinanceMastery"
 date: 2025-09-14
+categories: [personal-finance, introduction]
+tags: [finance, money, wealth]
+excerpt: "FinanceMastery is born — your AI-powered guide to mastering money and building wealth."
 ---
-
-FinanceMastery is an AI-powered blog built to help you master money, investments, and financial freedom.  
-
-Here, you’ll learn:  
-- 💡 Smart personal finance hacks  
-- 📈 Investment strategies  
-- 🛡️ How to protect and grow your wealth  
-
-This blog will evolve into a **self-sustaining ecosystem** — generating content, insights, and value for readers forever.  
